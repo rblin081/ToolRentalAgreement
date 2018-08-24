@@ -1,13 +1,12 @@
-package Cardinal.tests;
+package ToolRentalAgreement.tests;
 
 import static org.junit.Assert.assertEquals;
 import static org.junit.Assert.assertNull;
 
 import org.junit.Test;
 
-import Cardinal.src.Tool;
-import Cardinal.src.ToolDataStore;
-import Cardinal.src.ToolRentalInformation;
+import ToolRentalAgreement.src.ToolDataStore;
+import ToolRentalAgreement.src.ToolRentalInformation;
 
 public class ToolDataStoreTests {
 

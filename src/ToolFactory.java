@@ -1,4 +1,4 @@
-package Cardinal.src;
+package ToolRentalAgreement.src;
 
 public class ToolFactory {
 

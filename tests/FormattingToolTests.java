@@ -1,4 +1,4 @@
-package Cardinal.tests;
+package ToolRentalAgreement.tests;
 
 import static org.junit.Assert.assertEquals;
 
@@ -9,7 +9,7 @@ import java.time.format.DateTimeParseException;
 
 import org.junit.Test;
 
-import Cardinal.src.FormattingTools;
+import ToolRentalAgreement.src.FormattingTools;
 
 public class FormattingToolTests {
 

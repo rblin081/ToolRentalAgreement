@@ -1,11 +1,10 @@
-package Cardinal.tests;
+package ToolRentalAgreement.tests;
 
 import static org.junit.Assert.assertEquals;
 
 import org.junit.Test;
 
-import Cardinal.src.Tool;
-import Cardinal.src.ToolRentalAgreement;
+import ToolRentalAgreement.src.ToolRentalAgreement;
 
 public class RentalAgreementTests {
 
@@ -37,8 +36,8 @@ public class RentalAgreementTests {
 	 * 07/05/20 is also a weekend and a charge day. This is also the due date
 	 * I believe there was a typo in the Rental Days column for Test 2, it should have been 2 rental days instead of 3
 	 * This matches the business logic and other test results
-	 * If this was not the case of a typo, I apologize. I can also assure you that I read through the document
-	 * approximately 1 million times
+	 * If this was not the case of a typo, I apologize. I assure you that I read through the document
+	 * approximately 1 million times and this is the conclusion I came to
 	 */
 	@Test
 	public void RentalAgreement_Ladder_Holiday_Discount() {

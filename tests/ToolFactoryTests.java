@@ -1,11 +1,10 @@
-package Cardinal.tests;
+package ToolRentalAgreement.tests;
 
 import static org.junit.Assert.assertEquals;
 
 import org.junit.Test;
 
-import Cardinal.src.Tool;
-import Cardinal.src.ToolFactory;
+import ToolRentalAgreement.src.ToolFactory;
 
 public class ToolFactoryTests {
 

@@ -1,4 +1,4 @@
-package Cardinal.src;
+package ToolRentalAgreement.src;
 
 import java.math.BigDecimal;
 import java.time.DayOfWeek;
