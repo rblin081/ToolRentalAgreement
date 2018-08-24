@@ -4,6 +4,7 @@ import static org.junit.Assert.assertEquals;
 
 import org.junit.Test;
 
+import ToolRentalAgreement.src.Tool;
 import ToolRentalAgreement.src.ToolFactory;
 
 public class ToolFactoryTests {

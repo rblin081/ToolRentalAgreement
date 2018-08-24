@@ -5,6 +5,7 @@ import static org.junit.Assert.assertNull;
 
 import org.junit.Test;
 
+import ToolRentalAgreement.src.Tool;
 import ToolRentalAgreement.src.ToolDataStore;
 import ToolRentalAgreement.src.ToolRentalInformation;
 
